@@ -1,0 +1,161 @@
+body{
+    font-family: 'TildaSans', Arial, sans-serif;
+}
+
+h1{
+    font-style: oblique;
+    margin-top: 200px;
+    background-position: center;
+    margin-left: 450px;
+    margin-right: 400px;
+    font-size: 50px;
+    font-weight: 550;
+    color: #000000;
+    opacity: 0.9;;
+}
+
+.France1{
+    margin-left: 200px;
+}
+
+img{
+    width: 1150px;
+    height: 700px;
+    background-position: center;
+    margin-left: 200px;
+    margin-top: 17px;
+}
+
+h2{
+    margin-top: 150px;
+    margin-left: 0px;
+    margin-right: 300px;
+    font-size: 44px;
+    font-weight: 600;
+    color: #000000;
+    white-space: nowrap;
+}
+
+.text{
+    color: #666;
+    font-weight: 500;
+    margin-right: -180px;
+}
+
+.guests{
+    margin-right: 10px;
+}
+
+.text.number{
+    margin-left: 280px;
+    margin-top: 2px;
+    line-height: 1.35;
+}
+
+.border-1{
+    color: orange;
+}
+
+.Parish{
+    margin-right: 10px;
+    font-size: 20px;
+    line-height: 1.55;
+    width: 46ch;
+    margin-top: 150px;
+    font-weight: 100;
+}
+
+.main_text {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 130px;
+}
+
+.text_right{
+    line-height: 1.56;
+    color: #000000;
+    font-weight: 200;
+    font-family: 'TildaSans', Arial, sans-serif;
+}
+
+.text_left{
+    margin-right: 40px;
+    margin-left: 0px;
+}
+
+.end{
+    background-color:#f2f2f2; 
+}
+
+.end h3{
+    margin-right: auto;
+    margin-left: auto;
+    text-align: center;
+    padding-top: 150px;
+    font-size: 37px;
+    font-weight: 600;
+    margin-bottom: 120px ;
+}
+
+.end_flex{
+    display: flex;
+    justify-content: space-between;
+    padding-bottom: 100px;
+}
+
+.left_pice{
+    font-family: 'TildaSans', Arial, sans-serif;
+    color: #000000;
+    font-size: 26px;
+    padding-right: 0px;
+    margin-left: 300px;
+}
+
+.nuber, .mail{
+    font-family: 'TildaSans', Arial, sans-serif;
+    font-weight: 100;
+   
+}
+
+.rigt_pice{
+    margin-left: -500px;
+    padding-top: 0 20px;
+    margin-right: 400px;
+}
+
+#email, #name, #message{
+    background-color: #ffffff;
+    border-color: #ffffff;
+    font-size: 15px;
+}
+
+#name, #email{
+    height: 50px;
+    padding-right: 150px;
+    margin-right: 250px;
+    width: 300px;
+    padding-left: 20px;
+}
+
+#message{
+    height: 50px;
+    padding-top: 26px;
+    width: 450px;
+    max-width: 450px;
+    min-width: 450px;
+    padding-left: 20px;
+}
+
+.button{
+    width: 200px;
+    height: 60px;
+    background-color: #ff5c33;
+    border-color: #ff5c33;
+    color: #ffffff;
+    font-weight: 700;
+    font-size: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-family: 'TildaSans', Arial, sans-serif;
+    border-radius: 7px;
+}
